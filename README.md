@@ -24,3 +24,7 @@ python crawler.py
 ```
 
 실행하면 됩니다.
+---> selenium 오류가 심각해서
+```
+bs4.ipynb
+``` 실행시키시면 예제 크롤링 가능합니다.
