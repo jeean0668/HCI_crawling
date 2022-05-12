@@ -1,0 +1,7 @@
+README.md
+Korpora.egg-info/PKG-INFO
+Korpora.egg-info/SOURCES.txt
+Korpora.egg-info/dependency_links.txt
+Korpora.egg-info/entry_points.txt
+Korpora.egg-info/requires.txt
+Korpora.egg-info/top_level.txt
